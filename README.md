@@ -52,13 +52,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoA_zs0gwm.png">
-<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/bbbbb_p16foh.png" />
+<a href="https://github.com/facundo-monllor" target="_blank">
+<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoA_zs0gwm.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/facundo-monllor" target="_blank">
-<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoB_ngxvlu.png" />
+<img src=https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoB_ngxvlu.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
   
 
 <br/>  
