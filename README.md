@@ -27,7 +27,7 @@
 ## My Skill Set  
 
 
-### Frontend  
+
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -52,11 +52,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/facundo-monllor" target="_blank">
+<a href="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoA_zs0gwm.png">
 <img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/bbbbb_p16foh.png" />
 </a>
 <a href="https://linkedin.com/in/facundo-monllor" target="_blank">
-<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/aaaa_ovslia.png" />
+<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674170172/intentoB_ngxvlu.png" />
 </a>  
 </div>  
   
