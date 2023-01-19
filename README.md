@@ -53,10 +53,10 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/facundo-monllor" target="_blank">
-<img src=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"; "width:100;"; "height:100;" />
+<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/bbbbb_p16foh.png" />
 </a>
 <a href="https://linkedin.com/in/facundo-monllor" target="_blank">
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://res.cloudinary.com/dpb5vf1q1/image/upload/v1674169824/aaaa_ovslia.png" />
 </a>  
 </div>  
   
@@ -69,6 +69,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundo-monllor&hide_border=true&layout=compact" align="left" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
